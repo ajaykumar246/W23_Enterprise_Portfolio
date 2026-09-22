@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_dihni_w23_ent_11.W23_PortfolioUtils_Ajay</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>W23_PortfolioUtils_Ajay</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var W23_PortfolioUtils_Ajay = Class.create();
+W23_PortfolioUtils_Ajay.prototype = {
+    initialize: function() {
+    },
+
+    type: 'W23_PortfolioUtils_Ajay'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>ajayk</sys_created_by>
+        <sys_created_on>2026-09-22 09:00:29</sys_created_on>
+        <sys_id>080e19e497ef83908ebef3fce053af24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>W23_PortfolioUtils_Ajay</sys_name>
+        <sys_package display_value="W23 Enterprise Portfolio Ajay" source="x_dihni_w23_ent_11">926915a897af83908ebef3fce053afe6</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="W23 Enterprise Portfolio Ajay">926915a897af83908ebef3fce053afe6</sys_scope>
+        <sys_update_name>sys_script_include_080e19e497ef83908ebef3fce053af24</sys_update_name>
+        <sys_updated_by>ajayk</sys_updated_by>
+        <sys_updated_on>2026-09-22 09:00:29</sys_updated_on>
+    </sys_script_include>
+</record_update>
